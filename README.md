@@ -53,10 +53,11 @@ here database is seeded with 1 admin user, 2 roles admin and member and 1 appUse
 
 ## NOTES:
 ```
-* The app seeds the database with 4 users:
-user1, user2, user3, admin all with password "Pa$$w0rd" and differnt roles
+* The app seeds the database with 1 user: 
+user1 "P@$$w0rd"
 
-* The app seeds the database with 3 tables with their status and avalabilities to be able to update them in "/tables"
+2 Roles: 
+admin and member roles
 
-* The app migrates and update the database automatically when you run "dotnet run"
+1 UserRole: For giving the user admin role
 ```
