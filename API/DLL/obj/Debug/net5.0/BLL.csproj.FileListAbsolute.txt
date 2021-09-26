@@ -1,0 +1,33 @@
+C:\Users\abdelmonaem.81\source\repos\Booking-System\DLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\abdelmonaem.81\source\repos\Booking-System\DLL\bin\Debug\net5.0\BLL.dll
+C:\Users\abdelmonaem.81\source\repos\Booking-System\DLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\abdelmonaem.81\source\repos\Booking-System\DLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\abdelmonaem.81\source\repos\Booking-System\DLL\bin\Debug\net5.0\DAL.dll
+C:\Users\abdelmonaem.81\source\repos\Booking-System\DLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\abdelmonaem.81\source\repos\Booking-System\DLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\abdelmonaem.81\source\repos\Booking-System\DLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdelmonaem.81\source\repos\Booking-System\DLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\abdelmonaem.81\source\repos\Booking-System\DLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\abdelmonaem.81\source\repos\Booking-System\DLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\abdelmonaem.81\source\repos\Booking-System\DLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\abdelmonaem.81\source\repos\Booking-System\DLL\obj\Debug\net5.0\BLL.dll
+C:\Users\abdelmonaem.81\source\repos\Booking-System\DLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\abdelmonaem.81\source\repos\Booking-System\DLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\abdelmonaem.81\source\repos\Booking System\API\DLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\abdelmonaem.81\source\repos\Booking System\API\DLL\bin\Debug\net5.0\BLL.dll
+C:\Users\abdelmonaem.81\source\repos\Booking System\API\DLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\abdelmonaem.81\source\repos\Booking System\API\DLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\abdelmonaem.81\source\repos\Booking System\API\DLL\bin\Debug\net5.0\DAL.dll
+C:\Users\abdelmonaem.81\source\repos\Booking System\API\DLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\abdelmonaem.81\source\repos\Booking System\API\DLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\abdelmonaem.81\source\repos\Booking System\API\DLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdelmonaem.81\source\repos\Booking System\API\DLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\abdelmonaem.81\source\repos\Booking System\API\DLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\abdelmonaem.81\source\repos\Booking System\API\DLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\abdelmonaem.81\source\repos\Booking System\API\DLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\abdelmonaem.81\source\repos\Booking System\API\DLL\obj\Debug\net5.0\BLL.dll
+C:\Users\abdelmonaem.81\source\repos\Booking System\API\DLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\abdelmonaem.81\source\repos\Booking System\API\DLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\abdelmonaem.81\source\repos\Booking System\API\DLL\bin\Debug\net5.0\BLL.runtimeconfig.json
+C:\Users\abdelmonaem.81\source\repos\Booking System\API\DLL\bin\Debug\net5.0\BLL.runtimeconfig.dev.json
+C:\Users\abdelmonaem.81\source\repos\Booking System\API\DLL\obj\Debug\net5.0\BLL.genruntimeconfig.cache
